@@ -4,6 +4,7 @@
 // @version      1.3.1
 // @description  Show seeding time requirement per tracker in bottom-right corner with tooltip
 // @author       Eyck
+// @contributor  mlnl
 // @match        *://*aither.cc/*
 // @match        *://*animelovers.club/*
 // @match        *://*animebytes.tv/*
