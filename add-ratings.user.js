@@ -3,9 +3,9 @@
 // @version      1.0
 // @description  Add Ratings from Letterboxd/IMDB/Rotten Tomatoes to the torrent page.
 // @license      MIT
-// @match        *://*/torrents/*
-// @match        *://*/requests/*
-// @match        *://*/torrents/similar/*
+// @match        https://*/torrents/*
+// @match        https://*/requests/*
+// @match        https://*/torrents/similar/*
 // @namespace    https://www.tampermonkey.net/
 // @author       boisterous-larva
 // @updateURL    https://github.com/boisterous-larva/UNIT3D-IS-COOL/raw/refs/heads/main/add-ratings.user.js
