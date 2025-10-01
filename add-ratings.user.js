@@ -7,6 +7,8 @@
 // @match        *://*/torrents/similar/*
 // @namespace    https://www.tampermonkey.net/
 // @author       boisterous-larva
+// @updateURL    https://github.com/boisterous-larva/UNIT3D-IS-COOL/raw/refs/heads/main/add-ratings.user.js
+// @downloadURL  https://github.com/boisterous-larva/UNIT3D-IS-COOL/raw/refs/heads/main/add-ratings.user.js
 // @grant        GM.xmlHttpRequest
 // ==/UserScript==
 
